@@ -1,4 +1,4 @@
-# Retrieve all columns from the `customer` table.
+# 1. Retrieve all columns from the `customer` table.
 
 USE sakila;
 

@@ -22,7 +22,7 @@ This repository contains the solutions to the practice question on sakila databa
 
 9.  Display all the categories of films.
 
-10. List the names and emails of customers living in a specific city.
+10. List the names, emails and phone numbers of customers.
 
 11. Retrieve the titles of films that are available for rent.
 

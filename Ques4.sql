@@ -1,4 +1,4 @@
-# Display all the film titles from the `film` table.
+# 4. Display all the film titles from the `film` table.
 
 USE sakila;
 

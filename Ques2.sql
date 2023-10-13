@@ -1,4 +1,4 @@
-# List the first and last names of customers in the `customer` table.
+# 2. List the first and last names of customers in the `customer` table.
 
 USE sakila;
 

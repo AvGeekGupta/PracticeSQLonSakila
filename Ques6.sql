@@ -1,4 +1,4 @@
-# Retrieve the names and emails of active customers.
+# 6. Retrieve the names and emails of active customers.
 
 USE sakila;
 
